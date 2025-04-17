@@ -40,4 +40,7 @@
 <div align="center">
   <h1>🌄 METEORA (Projeto):</h1>
   <img src="https://raw.githubusercontent.com/GustavoVieiraa/Next.js-gerando-site-estatico-com-SSG/refs/heads/main/3500-meteora-ecommerce-next-14/public/archives/ApresentacaoApp-ezgif.com-video-to-gif-converter.gif">
+  <br><br>
+  <h1> 🧮 DEPLOY (VERCEL) </h1>
+  <img src="https://raw.githubusercontent.com/GustavoVieiraa/Next.js-gerando-site-estatico-com-SSG/refs/heads/main/3500-meteora-ecommerce-next-14/public/archives/VercelBuildDeploy.png">
 </div>
