@@ -15,7 +15,7 @@ async function fetchProdutosApi() {
 }
 
 async function fetchCategoriasApi() {
-  const res = await fetch("http://localhost:3000/api/categorias");
+  const res = await fetch("https://api.npoint.io/23b1d283c7c61bdf9356/categorias");
 
   if(!res.ok) {
     throw new Error("Não foi possível obter os dados");
@@ -28,7 +28,7 @@ async function fetchCategoriasApi() {
 
 export default async function Home() {
   const produtos  = await fetchProdutosApi();
-  const { categorias } = await fetchCategoriasApi();
+  const categorias = await fetchCategoriasApi();
 
   return (
     <>
