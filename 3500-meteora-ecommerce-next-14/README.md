@@ -1,7 +1,3 @@
-![Imagem de capa escrito  Next.js: gerando site estático com SSG, maximizando a performance com SSG](./thumbnail.png)
-
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
-
 # Meteora
 
 Uma aplicação que simula um e-commerce de produtos, onde contem a página inicial que lista todos os produtos e a página de detalhes de cada produto.
@@ -21,7 +17,7 @@ As principais técnicas e tecnologias abordadas são:
 
 ## 🎯 Desafios do Curso
 
-- O principal desafio será converter as rotas dinâmicas da página de detalhes do produto em páginas estáticas exportadas.
+- O principal desafio foi converter as rotas dinâmicas da página de detalhes do produto em páginas estáticas exportadas.
 
 ## 🛠️ Abrir e rodar o projeto
 
@@ -31,7 +27,3 @@ Após baixar o projeto, você pode abrir com seu editor de código preferido. Si
 - Execute `yarn` para instalar as dependências.
 - Inicie o servidor de desenvolvimento com `yarn dev`.
 - Acesse `http://localhost:3000` no navegador para ver o projeto.
-
-## 📚 Mais Informações do Curso
-
-Interessado em aprofundar seus conhecimentos em Next.js e SSR? [Acesse o curso]()!
